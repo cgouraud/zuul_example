@@ -1,0 +1,3 @@
+com\example\edgeservice\EdgeServiceApplication.class
+com\example\edgeservice\UserFeignClientInterceptor.class
+com\example\edgeservice\ResourceServerConfig.class

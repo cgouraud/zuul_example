@@ -1,0 +1,3 @@
+com\example\beercatalogservice\BeerCatalogServiceApplication.class
+com\example\beercatalogservice\ResourceServerConfig.class
+com\example\beercatalogservice\HomeController.class
